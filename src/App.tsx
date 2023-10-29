@@ -15,12 +15,12 @@ function App() {
       <div className="space-y-4 mt-8">
         <h1 className="text-6xl font-bold text-center">Leandro Rocha</h1>
 
-        <h3 className="text-xl/3 text-center">
+        <h3 className="text-xl text-center">
           Bem-vindo à minha jornada como desenvolvedor backend.
         </h3>
       </div>
 
-      <ul className="mt-20 grid grid-cols-list grid-flow-row gap-x-4 gap-y-4">
+      <ul className="mt-20 grid grid-cols-1 grid-flow-row gap-x-4 gap-y-4 sm:grid-cols-list">
         <a
           href="https://linkedin.com/in/leandro-wrocha"
           target="_blank"
